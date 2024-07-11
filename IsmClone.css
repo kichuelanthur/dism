@@ -1,0 +1,472 @@
+body{
+    margin: -26px;
+   
+}
+.Headerline{
+  background: linear-gradient(90deg, hsl(38.7, 88.6%, 93.1%) 0%, hsl(0, 0%, 100%) 44%, hsl(125.5, 100%, 97.8%) 100%);  margin: 0;
+  height: 175px;
+  width: 100%;
+  float: left;
+}
+.contact{
+  color: darkgoldenrod;
+  font-size: small;
+  padding-top: .5%;
+  padding-left: 75%;
+  height: 20px;
+  width: 100%;
+  float: left;
+}
+.logo{
+  float: left;
+  height: 20px;
+  width: 50%;
+padding-top: 50px; 
+ padding-left: 80px;
+ 
+}
+.azadalogo{
+  float: left;
+  height:20px;
+  width: 30px;
+  padding-top: 30px;
+  padding-left: 70px;
+
+}
+.azadipic{
+  padding-top: 0;
+  float: left;
+  height: 80px;
+  width: 120px;
+  padding-left: 340%;
+}
+.search{
+  float: left;
+  padding-top: 0px; 
+ padding-left: 80%;
+}
+.home{
+  float: left;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(8, 165, 8);
+  padding-left: 20%;
+  padding-top: 10px;
+}
+.table{
+  font-family: "calibiri", sans-serif;
+  color: white;
+  font-family: "calibiri", sans-serif;
+  font-weight: bold;
+}
+.scroll{
+  font-family: "calibiri", sans-serif;
+  float: left;
+  margin: 0;
+  width: 100%;
+  height: 25px;
+  background-color: rgb(165, 110, 8);
+  font-family: "calibiri", sans-serif;
+  font-size: 12px;
+  padding: 0;
+}
+.imageslideshow{
+  float: left;
+  height: 300px;
+  width: 100%;
+  }
+.image{
+  width: 469px;
+  height: 250px;
+}
+.descriptionsection{
+  float: left;
+  width:100%;
+  height: 500px; 
+}
+.Para{
+  float: left;
+  width: 718px;
+  height: 500px; 
+  margin-left: 10%;
+  text-align: justify;
+  font-family: "calibiri", sans-serif;
+}
+.descriptiontext{
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+.latestnews{
+  margin-top: 20px;
+  float: left;
+  width: 424px;
+  height: 280px;
+  margin-left: 35px;
+  border: solid 5px;
+  border-color: green;
+  border-radius: 5px;
+  padding-left: 30px;
+}
+.news{
+  float: left;
+  height: 50px;
+  width: 100%;
+}
+.newsfield{
+  float: left;
+  height: 230px;
+  width: 100%;
+}
+.latestevents{
+  float: left;
+  height: 100px;
+  width: 430px;;
+  border: solid 5px;
+  border-style: outset;
+  border-color: green;
+  border-radius: 30px;
+  margin-left: -26px;
+  margin-top: 30px;
+}
+.boxes{
+  font-family: "calibiri", sans-serif;
+  margin-top: 10px;
+  float: left;
+  height: 350px;
+  width: 100%;
+  padding-left: 10%;
+ text-align: justify;
+}
+.box1{
+  padding-left: 10px;
+  padding-right:  12px;
+  float: left;
+  width: 200px;
+  height: 300px;
+  border: solid 11px;
+  border-color: rgb(203, 245, 168);
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px gray;
+  line-height: 25px;
+}
+.box2{
+  margin-left: 40px;
+  padding-left: 10px;
+  padding-right:   12px;
+  float: left;
+  width: 200px;
+  height: 300px;
+  border: solid 11px;
+  border-color: rgb(203, 245, 168);
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px gray;
+  line-height: 25px;
+
+}
+.box3{
+  margin-left: 40px;
+  padding-left: 10px;
+  padding-right: 12px;
+  float: left;
+  width: 200px;
+  height: 300px;
+  border: solid 11px;
+  border-color: rgb(203, 245, 168);
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px gray;
+  line-height: 25px;
+
+}
+.box4{
+  margin-left: 40px;
+  padding-left: 10px;
+  padding-right:  12px;
+  float: left;
+  width: 200px;
+  height: 300px;
+  border: solid 11px;
+  border-color: rgb(203, 245, 168);
+  border-radius: 15px;
+  box-shadow: 0px 5px 10px gray;
+  line-height: 25px;
+}
+.Vision{
+  font-family: "Fira Sans Condensed", sans-serif;
+  text-align: center;
+  font-size: 20px;
+  font-weight:bolder;
+ color: rgb(5, 65, 8);
+}
+.links{
+  margin-top: 10px;
+  float: left;
+  height: 200px;
+  width: 20%;
+  padding-left: 10%;
+}
+.eoffice{
+  height: 50px;
+  width: 300px;;
+  border: solid 2px;
+  border-style: outset;
+  border-color: green;
+  border-radius: 15px;
+  margin-left: -26px;
+  margin-top: 5px;
+}
+.ehospital{
+  height: 50px;
+  width: 300px;;
+  border: solid 2px;
+  border-style: outset;
+  border-color: green;
+  border-radius: 20px;
+  margin-left: -26px;
+  margin-top: 5px;
+}
+.egov{
+  float: left;
+  height: 50px;
+  width: 300px;;
+  border: solid 2px;
+  border-style: outset;
+  border-color: green;
+  border-radius: 15px;
+  margin-left: -26px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.eimages{
+  padding-left: 50px;
+  height: 50px;
+  width: 200px;
+  float: left;
+}
+.video{
+  margin-top: 10px;
+  float: left;
+  height: 200px;
+  width: 250px;
+  padding-left: 5px;
+  border: solid 2px;
+  border-style: outset;
+  border-color: rgb(27, 12, 226);
+  border-radius: 15px;
+  margin-left: 25px;
+  padding-right: 5px;
+  box-shadow: 0px 5px 10px gray;
+}
+.videoimage{
+  padding-left:45px;
+  height: 50px;
+  width: 20px;
+}
+.mediatitle{
+  height: 30px;
+  width: 250px;
+margin-top: 115px;
+margin-left: 25px;
+  color: #0d425e;
+  font-family: "Alegreya SC";
+  font-size: 18pt;
+
+}
+.food{
+  margin: 20px;
+  float: left;
+  width: 100%;
+  height: 350px;
+  padding-left: 50px;
+}
+.foodimage{
+  margin-left: 10px;
+  float: left;
+  width: 244px;
+  margin-right: 15px;
+  height: 348px;
+}
+.container{
+  float: left;
+  width: 100%;
+  height: 350px;
+  padding-left: 155px;
+}
+.hodimages {
+  margin-top: 10px;
+  margin-left: 10px;
+  float: left;
+  width: 244px;
+  margin-right: 15px;
+  height: 290px;
+  }
+.health{
+  margin-top: 10px;
+  margin-left: 10px;
+  float: left;
+  width: 100%;
+  margin-right: 0px;
+  height: 390px;
+  padding-left: 155px;
+  background: url(health\ tips.jpg);
+  background-size:auto
+}
+.tipsbox{
+  float: left;
+  height: 380px;
+  width: 500px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: green;
+  border-width: 3px;
+  padding-left: 20px;
+  padding-bottom: 0px ;
+  box-shadow: 0px 5px 10px gray;
+}
+.healthtips{
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #006400;
+  line-height: 50px;
+  letter-spacing: 0px;
+  
+}
+ul{
+  font-family: "Arial";
+  color: black;
+  line-height: 35px;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: left;
+  margin: 0;
+  padding: left 10px;
+  padding-top: 0;
+}
+.healthupdatebox{
+  margin: 20px;
+  margin-top: 0;
+  float: left;
+  height: 250px;
+  width: 250px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: green;
+  border-width: 3px;
+  box-shadow: 0px 5px 10px gray;
+}
+.healthupdt{
+  margin-top: 10px;
+  margin-bottom: 43px;
+  color: #006400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  padding-left: 20px;
+  font-family: "Fira Sans Condensed", sans-serif;
+}
+.laddu{
+  height: 250px;
+  width: 250px;
+  border-radius: 15px;
+}
+.medplants{
+  margin-top: 100px;
+  margin-left: 10px;
+  float: left;
+  width: 100%;
+  margin-right: 0px;
+  height: 1110px;
+  padding-left: 155px;
+}
+.medimage1{
+  margin-left: 10px;
+  float: left;
+  height: 650px;
+  width: 445px;
+}
+.medimage2{
+  margin-left: 100px;
+  height: 650px;
+  width: 545px;
+}
+.medimage3{
+  margin-top: 50px;
+  margin-left: 10px;
+  height: 400px;
+  width: 545px;
+  float: left;
+}
+.externallinks{ 
+  margin-top: 30px;
+  background: linear-gradient(90deg, hsl(38.7, 88.6%, 93.1%) 0%, hsl(0, 0%, 100%) 44%, hsl(125.5, 100%, 97.8%) 100%); 
+  height: 170px;
+  width: 100%;
+  float: left;
+  padding-top: 50px;
+  overflow:hidden;
+white-space: nowrap;
+}
+.linkimage{
+    height: 80px;
+  width: 170px;
+  margin-right: 20px;
+}
+.footer{
+  float: left;
+  width: 100%;
+  height: 300px;
+ background-image: url(Top_Banner-02\ -\ Copy.jpg);
+ background-repeat: no-repeat;
+background-size: 1400px 300px;
+font-family: "calibiri", sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 1.5;
+color: white;
+}
+.fotergradient{
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(97deg, rgba(237,237,234,1) 0%, rgba(158,242,103,0.010224072539171902) 90%); 
+}
+.address{
+  float: left;
+  height: 100px;
+  margin-top: 70px;
+  margin-left: 130px;
+ 
+}
+.terms{
+  float: left;
+  height: 100px;
+  margin-top: 70px;
+  margin-left: 130px;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color:gray;
+
+}
+.counter{
+  float: left;
+  height: 100px;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+.copyright{
+  float: left;
+  width: 100%;
+  height: 20px;
+  background-color: black;
+  color: white;
+  font-size: 10pt;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0%;
+  font-family: "calibiri", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
